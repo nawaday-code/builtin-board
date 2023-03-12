@@ -1,0 +1,22 @@
+{
+  "name": "builtin-board",
+  "version": "1.0.0",
+  "description": "builtin-board like quest board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": "git+https://github.com/nawaday-code/builtin-board.git",
+  "author": "Yuki Nawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nawaday-code/builtin-board/issues"
+  },
+  "homepage": "https://github.com/nawaday-code/builtin-board#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.0",
+    "lite-server": "^2.6.1",
+    "typescript": "^4.9.5"
+  }
+}
